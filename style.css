@@ -1,6 +1,5 @@
 body {
     background-color: #777;
-    color: #777;
     font-family: 'arial', 'helvetica neue', helvetica, sans-serif;
     width: '960px';
     font-size: '10px';
@@ -65,6 +64,8 @@ body {
     padding: 10px;
     background-color: #ebebeb;
     color: #777;
+    width: 895px;
+    height: 40px;
     text-align: center;
     margin-left: 60px;
     margin-bottom: 20px;
